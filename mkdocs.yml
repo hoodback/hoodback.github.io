@@ -1,0 +1,20 @@
+site_name: Hoodby
+site_description: Hoodby Documentation
+site_url: https://hoodby.github.io
+
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.tabs
+    - navigation.top
+  palette:
+    primary: 'blue grey'
+    accent: 'blue'
+
+plugins:
+  - search
+  - blog
+
+nav:
+  - Home: index.md
