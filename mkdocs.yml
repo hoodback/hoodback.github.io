@@ -18,3 +18,4 @@ plugins:
 
 nav:
   - Home: index.md
+  - Idea: 'qué ofrece.md'
